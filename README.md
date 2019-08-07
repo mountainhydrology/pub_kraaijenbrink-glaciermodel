@@ -1,5 +1,7 @@
 ## Mass balance gradient glacier model
 
+Note that this repository is a clone of v1.0 from [kraaijenbrink/nature-2017](https://github.com/kraaijenbrink/nature-2017). Development may have continued there.
+
 ### Scripts
 
 ##### kraaijenbrink2017-debris-classification.js
@@ -12,7 +14,7 @@ The main model script written in R. Required source data can be found [here](htt
 Script to aggregate the model output to (RGI) regions.
 
 ### Contact
-<p.d.a.kraaijenbrink@uu.nl>
+<p.d.a.kraaijenbrink@uu.nl> or <w.w.immerzeel@uu.nl>
 
 
 ### Reference
